@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<a href="https://github.com/bhuvaneshwarguttula"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" /><a>
 </p>
 
 </div>
